@@ -16,7 +16,7 @@
 - Chart.js (через vue-chartjs)
 
 Установка:
-git clone https://github.com/твой-профиль/название-репозитория.git
+git clone https://github.com/methodx5/expense-manager.git
 cd название-репозитория
 npm install
 npm run dev
